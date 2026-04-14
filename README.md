@@ -16,4 +16,5 @@
 ## 🦎 Expert System Certification
 * [📂 Expert System Certification](./Expert%20System%20Certification)
 # Links Importantes
+https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/
 https://www.gamefy.education/login
