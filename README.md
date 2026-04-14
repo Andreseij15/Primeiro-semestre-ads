@@ -1,6 +1,6 @@
 # Coisas-da-FECAP
 # Datas da provas/trabalho/coisas importantes
-* Dia 25 de Abril prova de Python
+* Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
 
 ## 🖥️ Algoritmos e Lógica de Programação
