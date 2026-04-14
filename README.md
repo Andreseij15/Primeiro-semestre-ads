@@ -4,8 +4,11 @@
 * Dia 27 de Abril prova de Matemática Discreta
 
 # Links Importantes
+Portal FECAP
 * https://portal.fecap.br/framehtml/web/app/edu/PortalEducacional/login/
+Gamefy
 * https://www.gamefy.education/login
+Curso de Python
 * https://www.netacad.com/courses/python-essentials-1?courseLang=pt-BR&instance_id=b5325dcd-d1a5-46cc-894c-6e9dc7bf7342
   
 ## 🖥️ Algoritmos e Lógica de Programação
