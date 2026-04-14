@@ -1,6 +1,3 @@
-<p align="right">
-  # Coisas-da-FECAP
-</p>
 # Coisas-da-FECAP
 # Datas das provas/trabalho/coisas importantes
 * Dia 25 de Abril prova de Expert System Application
