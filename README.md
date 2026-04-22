@@ -4,6 +4,8 @@
 * Dia 23 de Abril prova de Modelagem de Software
 * Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
+* Dia 05 de Maio prova do livro Método Sprint.
+** Quarta feiro presencial
 
 # Links Importantes
 ### Portal FECAP
