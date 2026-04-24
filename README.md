@@ -5,6 +5,7 @@
 * Dia 25 de Abril prova de Expert System Application
 * Dia 27 de Abril prova de Matemática Discreta
 * Dia 05 de Maio prova do livro Método Sprint. (Quarta feira presencial)
+* Dia 11 de Maio segunda entrega da P2
 
 # Links Importantes
 ### Portal FECAP
