@@ -26,7 +26,7 @@
 * [📂 Matemática Discreta](./Matemática%20Discreta)
 ## 🔎 Modelagem de Software
 * [📂 Modelagem de Software](./Modelagem%20de%20Software)
-* vai cair na prova PO:
+# vai cair na prova PO:
 * Estrutura MVC
 ## 👾 Redes de Computadores
 * [📂 Redes de Computadores](./Redes%20de%20Computadores)
