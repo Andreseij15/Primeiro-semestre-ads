@@ -7,8 +7,12 @@
 * Dia 27 de Abril prova de Matemática Discreta ✅
 * Dia 04 de Maio Enviar Banner no Git Hub pra aprovação ✅
 * Dia 06 de Maio prova do livro Método Sprint. (Quarta feira presencial)✅
-* Dia 09 de Maio Avaliação 360 entre pares (Sábado) -- ADIADO--
+* Dia 09 de Maio Avaliação 360 entre pares (Sábado) -- ADIADO--✅
 * Dia 11 de Maio segunda entrega da P2 + documentação extensão com empresa via git hub ✅
+* Dia 21 de Maio apresentação da IBM
+* Dia 21 de Maio apresentação da PI
+* Dia 22 de Maio apresentação da Microsoft
+* dia 23 de Maio Avaliação 360 entre pares
 
 # Links Importantes
 ### Portal FECAP
